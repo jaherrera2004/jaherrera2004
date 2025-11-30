@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&repeat=true&width=600&height=70&lines=Backend+Developer+💻;Java+|+Python+|+Spring+Boot;Siempre+aprendiendo+algo+nuevo+🚀)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&repeat=true&width=600&height=70&lines=Backend+Developer+💻;Java+|+Python+|+Spring+Boot;Always+Learning+Something+New+🚀)
 
   <br/>
   
