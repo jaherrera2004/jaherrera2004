@@ -26,33 +26,48 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Sobre mí
 
-```python
-class JuanAndresHerrera:
-    def __init__(self):
-        self.name = "Juan Andrés Herrera"
-        self.role = "Backend Developer"
-        self.location = "Colombia 🇨🇴"
-        self.education = "Estudiante"
-        self.languages = ["es_CO", "en_US"]
-        
-    def say_hi(self):
-        print("¡Gracias por visitar mi perfil! 
-                Apasionado por el desarrollo backend 
-                y siempre en busca de nuevos retos.")
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding"/>
+</div>
 
-me = JuanAndresHerrera()
-me.say_hi()
-```
+<br/>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<table align="center">
+  <tr>
+    <td>👨‍💻 <b>Nombre</b></td>
+    <td>Juan Andrés Herrera</td>
+  </tr>
+  <tr>
+    <td>🎓 <b>Estado</b></td>
+    <td>Estudiante & Desarrollador</td>
+  </tr>
+  <tr>
+    <td>📍 <b>Ubicación</b></td>
+    <td>Colombia 🇨🇴</td>
+  </tr>
+  <tr>
+    <td>💼 <b>Enfoque</b></td>
+    <td>Backend Development</td>
+  </tr>
+  <tr>
+    <td>🔥 <b>Especialidad</b></td>
+    <td>Java, Python, Spring Boot, Flask, FastAPI</td>
+  </tr>
+  <tr>
+    <td>🚀 <b>Trabajando en</b></td>
+    <td>APIs RESTful y Microservicios</td>
+  </tr>
+  <tr>
+    <td>📫 <b>Contacto</b></td>
+    <td>jaherrera1024@gmail.com</td>
+  </tr>
+</table>
 
-- 🔭 Actualmente trabajando en **APIs RESTful y microservicios**
-- 🌱 Siempre aprendiendo **nuevas tecnologías backend**
-- 💬 Pregúntame sobre **Java, Python, Spring Boot, Flask, FastAPI**
-- 📫 Contáctame: **jaherrera1024@gmail.com**
-- ⚡ Fun fact: **97% de mi actividad en GitHub son commits!**
+<br/>
 
-<br clear="both">
+<div align="center">
+  <i>"Apasionado por el desarrollo backend y siempre en busca de nuevos retos"</i>
+</div>
 
 ---
 
