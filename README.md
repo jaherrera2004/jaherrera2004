@@ -87,25 +87,6 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jaherrera2004&show_icons=true&count_private=true&hide_border=true&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9&bg_color=0d1117" alt="Juan Andrés GitHub stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaherrera2004&layout=compact&hide_border=true&title_color=8b5cf6&text_color=c9d1d9&bg_color=0d1117" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaherrera2004&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaherrera2004&bg_color=0d1117&color=8b5cf6&line=8b5cf6&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
-
----
-
 ## 🏆 Trofeos de GitHub
 
 <div align="center">
@@ -117,12 +98,25 @@ me.say_hi()
 ## 📌 Proyectos Destacados
 
 <div align="center">
-  
-[![API_JJs_Car_Rent](https://github-readme-stats.vercel.app/api/pin/?username=jaherrera2004&repo=API_JJs_Car_Rent&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6)](https://github.com/jaherrera2004/API_JJs_Car_Rent)
-[![API_SALUD_ANIMILIA](https://github-readme-stats.vercel.app/api/pin/?username=jaherrera2004&repo=API_SALUD_ANIMILIA&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6)](https://github.com/jaherrera2004/API_SALUD_ANIMILIA)
 
-[![MiMercado-Frontend-Movil](https://github-readme-stats.vercel.app/api/pin/?username=jaherrera2004&repo=MiMercado-Frontend-Movil&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6)](https://github.com/jaherrera2004/MiMercado-Frontend-Movil)
-[![Student-Desk-API](https://github-readme-stats.vercel.app/api/pin/?username=jaherrera2004&repo=Student-Desk-API&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6)](https://github.com/jaherrera2004/Student-Desk-API)
+<a href="https://github.com/jaherrera2004/API_JJs_Car_Rent">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaherrera2004&repo=API_JJs_Car_Rent&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&show_owner=true" />
+</a>
+<a href="https://github.com/jaherrera2004/API_SALUD_ANIMILIA">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaherrera2004&repo=API_SALUD_ANIMILIA&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&show_owner=true" />
+</a>
+<a href="https://github.com/jaherrera2004/MiMercado-Frontend-Movil">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaherrera2004&repo=MiMercado-Frontend-Movil&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&show_owner=true" />
+</a>
+
+### 🚗 API JJs Car Rent
+> Sistema de alquiler de vehículos desarrollado con Java
+
+### 🐱 API Salud Animilia  
+> Software gestor de citas de una veterinaria
+
+### 🛒 MiMercado Frontend Móvil
+> Aplicación móvil desarrollada con Flutter/Dart
 
 </div>
 
