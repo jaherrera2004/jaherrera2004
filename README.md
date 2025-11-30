@@ -2,8 +2,10 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Backend+Developer+%F0%9F%92%BB;Java+%7C+Python+%7C+Spring+Boot;Always+learning+something+new+%F0%9F%9A%80)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&repeat=true&width=600&height=70&lines=Backend+Developer+💻;Java+|+Python+|+Spring+Boot;Siempre+aprendiendo+algo+nuevo+🚀)
 
+  <br/>
+  
   <a href="https://www.linkedin.com/in/juan-herrera-b69750299">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -13,6 +15,8 @@
   <a href="https://github.com/jaherrera2004">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  
+  <br/><br/>
   
   <img src="https://komarev.com/ghpvc/?username=jaherrera2004&style=for-the-badge&color=8b5cf6" alt="Profile Views"/>
   
