@@ -54,10 +54,6 @@
     <td>Java, Python, Spring Boot, Flask, FastAPI</td>
   </tr>
   <tr>
-    <td>🚀 <b>Trabajando en</b></td>
-    <td>APIs RESTful y Microservicios</td>
-  </tr>
-  <tr>
     <td>📫 <b>Contacto</b></td>
     <td>jaherrera1024@gmail.com</td>
   </tr>
