@@ -138,14 +138,6 @@
 
 ---
 
-## 🐍 Contribuciones
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jaherrera2004/jaherrera2004/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</div>
-
----
-
 <div align="center">
   
 ### 💬 ¡Conectemos!
